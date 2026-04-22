@@ -26,7 +26,7 @@ def test_convertirBinario_1():
     assert Laboratorio4.convertirBinario([2,0]) == 10100
 
 def test_convertirBase_2():
-    assert Laboratorio4.convertirBinario([8,2,1]) == 1100100001
+    assert Laboratorio4.convertirBinario([8,2,1]) == 1100110101
 
 def test_convertirBase_3():
     assert isinstance(Laboratorio4.convertirBinario(20), str) == isinstance("Error: El parámetro debe ser una lista", str)
