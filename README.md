@@ -22,7 +22,7 @@ Escriba una función **sumaValoresPares (vector1, vector2)** que reciba dos veto
 [4,10,0,4]
 >>> sumaValoresPares([10, 0], [1,2])
 [0,2]
- >>> suma([1,2], [1,2,3])
+ >>> sumaValoresPares([1,2], [1,2,3])
  "Error: Los vectores no son del mismo tamaño"
  ```
 
