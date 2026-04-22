@@ -32,7 +32,7 @@ Escriba una función llamada **convertirBinario** que reciba como parámetro de 
 ```python
 >>> convertirBinario( [2,0] )
 10100
->>> convertirBase( [8,2,1])
+>>> convertirBinario( [8,2,1])
 1100100001
 
 ```
